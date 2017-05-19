@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Hello how are you
 
 change 1
 
 change 2
+=======
+Hello how are you
+>>>>>>> parent of 6b77f6b... Change1 in File2
