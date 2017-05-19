@@ -8,3 +8,6 @@ change 2
 Hello how are you
 >>>>>>> parent of 6b77f6b... Change1 in File2
 \\Cgange -2 
+
+
+change3
